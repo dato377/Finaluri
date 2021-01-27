@@ -1,0 +1,6 @@
+2021-01-27 20:08:39 INFO  Payment:16 - Electricity{customerNumber='dato123', amount=10.5}
+2021-01-27 20:08:39 INFO  Payment:16 - Water{customerNumber='123', amount=2.3}
+2021-01-27 20:09:54 INFO  Payment:16 - Electricity{customerNumber='dato123', amount=10.5}
+2021-01-27 20:09:54 INFO  Payment:16 - Water{customerNumber='123', amount=2.3}
+2021-01-27 20:10:35 INFO  Payment:16 - Electricity{customerNumber='dato123', amount=10.5}
+2021-01-27 20:10:35 INFO  Payment:16 - Water{customerNumber='123', amount=2.3}
